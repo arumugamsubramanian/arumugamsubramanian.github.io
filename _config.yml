@@ -21,10 +21,10 @@ author: Arumugam Subramanian
 
 navbar-links:
   About Me: "aboutme"
-  Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
+  # Resources:
+    # - Beautiful Jekyll: "https://beautifuljekyll.com"
+    # - Learn markdown: "https://www.markdowntutorial.com/"
+  # Author's home: "https://deanattali.com"
 
 ################
 # --- Logo --- #
@@ -52,8 +52,8 @@ round-avatar: true
 social-network-links:
   email: "arumugamofcl@gmail.com"
   github: arumugamsubramanian
-  twitter: aarus_s
-  youtube: c/arumugamofcl
+  twitter: arumugam_s
+  youtube: arumugamofcl
 #  medium: yourname
 #  reddit: yourname
   linkedin: aarumugams
