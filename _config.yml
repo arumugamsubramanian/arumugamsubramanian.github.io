@@ -10,7 +10,7 @@
 ############################
 
 # Name of website
-title: Arumugam Subramanian
+title: Home
 
 # Your name to show in the footer
 author: Arumugam Subramanian
@@ -53,7 +53,7 @@ social-network-links:
   email: "arumugamofcl@gmail.com"
   github: arumugamsubramanian
   twitter: arumugam_s
-  youtube: arumugamofcl
+  youtube: "@arumugamofcl"
 #  medium: yourname
 #  reddit: yourname
   linkedin: aarumugams
@@ -283,6 +283,11 @@ exclude:
   - README.md
   - screenshot.png
   - docs/
+  - node_modules
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
 
 plugins:
   - jekyll-paginate
