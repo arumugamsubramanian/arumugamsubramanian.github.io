@@ -12,10 +12,9 @@
       {% endif %}
       <p class="copyright text-muted">
       {% if site.author %}
-        {{ site.author }}
+        {{ site.author }}&nbsp;&nbsp;&copy; {{ site.time | date: '%Y' }} All Rights Reserved.
         &nbsp;&bull;&nbsp;
       {% endif %}
-      <p>&copy; {{ site.time | date: '%Y' }} All Rights Reserved.</p>
 
       {% if site.url-pretty %}
         &nbsp;&bull;&nbsp;
