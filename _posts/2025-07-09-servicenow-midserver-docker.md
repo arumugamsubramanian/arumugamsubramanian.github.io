@@ -31,3 +31,14 @@ By containerizing the MID Server, you unlock a lot of DevOps-friendly benefits:
 - ✅ **Isolation:** Keep dependencies and configuration encapsulated.
 - ✅ **Portability:** Move easily across servers, clouds, or laptops.
 - ✅ **Version Control:** Use Git to manage configurations and custom scripts.
+
+## Logic
+
+A scrapper is used to extract the MID Server version from the ServiceNow instance. This ensures that the MID Server is always compatible with your ServiceNow environment.
+
+Currently I am building the docker image for vancouver, washingtondc, xandu and yokohama releases.
+
+The docker images are available in my docker hub
+
+* Windows - https://hub.docker.com/r/arumugamsubramanian/mid-windows
+* Linux - https://hub.docker.com/r/arumugamsubramanian/mid-linux
