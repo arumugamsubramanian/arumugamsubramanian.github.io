@@ -1,8 +1,7 @@
 ---
 layout: page
-title: "Welcome to My IT Space!"
-date: 2025-07-09
-author: Arumugam Subramanian
+title: Welcome to My IT Space!
+subtitle: Why you'd want to go on a date with me
 ---
 
 # Welcome to My IT Space!
