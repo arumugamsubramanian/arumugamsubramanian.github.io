@@ -40,5 +40,5 @@ Currently I am building the docker image for vancouver, washingtondc, xandu and 
 
 The docker images are available in my docker hub
 
-* Windows - https://hub.docker.com/r/arumugamsubramanian/mid-windows
-* Linux - https://hub.docker.com/r/arumugamsubramanian/mid-linux
+* Windows - [DockerHub Windows](https://hub.docker.com/r/arumugamsubramanian/mid-windows)
+* Linux - [DockerHub Linux](https://hub.docker.com/r/arumugamsubramanian/mid-linux)
